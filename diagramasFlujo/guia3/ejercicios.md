@@ -1,5 +1,5 @@
 # Ejercicio 1
-![Diagrama de flujo E1](./E1.png#e1)
+![Diagrama_E1](./E1.png)
 
 
 # Ejercicio2

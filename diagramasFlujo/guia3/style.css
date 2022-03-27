@@ -1,3 +1,1 @@
-img[src*="#e1"] {
-    width: 200px;
-}
+img[alt=Diagrama_E1] { width: 200px; }
