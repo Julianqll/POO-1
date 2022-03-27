@@ -1,9 +1,5 @@
-<style>
-    img[alt=Diagrama_E1] { width: 200px; }
-</style>
-
 # Ejercicio 1
-![Diagrama_E1](./E1.png)
+![Diagrama de flujo E2](./E1.png | width=200)
 
 
 # Ejercicio2
