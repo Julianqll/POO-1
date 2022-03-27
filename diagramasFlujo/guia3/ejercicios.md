@@ -1,3 +1,7 @@
+<style>
+    img[alt=Diagrama_E1] { width: 200px; }
+</style>
+
 # Ejercicio 1
 ![Diagrama_E1](./E1.png)
 
