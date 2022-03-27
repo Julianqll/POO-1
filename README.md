@@ -44,7 +44,6 @@ public class Main {
         System.out.println("El precio del pasaje por Semana Santa es: " + precioSSanta);
         System.out.println("El importe total a pagar es: " + importeTotal);
         System.out.println("La cantidad de chocolates de obsequio es: " + cantidadChocolates);
-
     }
 }
 ````
