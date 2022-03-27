@@ -3,12 +3,10 @@
 
 
 # Ejercicio2
-![Diagrama de flujo E2](./E2.png)
-
+<img src="./E2.png" width="500"/>
 
 # Ejercicio 3
-![Diagrama de flujo E3](./E3.png)
-
+<img src="./E3.png" width="500"/>
 
 # Ejercicio 4
-![Diagrama de flujo E4](./E4.png)
+<img src="./E4.png" width="500"/>
