@@ -1,5 +1,5 @@
 # Ejercicio 1
-![Diagrama de flujo E1](./E1.png)
+![Diagrama de flujo E1](./E1.png#e1)
 
 
 # Ejercicio2
@@ -8,7 +8,6 @@
 
 # Ejercicio 3
 ![Diagrama de flujo E3](./E3.png)
-
 
 
 # Ejercicio 4
