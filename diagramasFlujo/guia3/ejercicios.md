@@ -1,5 +1,5 @@
 # Ejercicio 1
-![Diagrama de flujo E2](./E1.png | width=200)
+![Diagrama de flujo E2](./E1.png|width=200)
 
 
 # Ejercicio2
