@@ -1,5 +1,5 @@
 # Ejercicio 1
-<img src="./E1.png" width="200"/>
+<img src="./E1.png" width="500"/>
 
 
 # Ejercicio2
