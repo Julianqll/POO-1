@@ -1,4 +1,12 @@
 # Tareas Semana 1 - POO I 
+## Integrantes:
+- Alexander Rivera Rimac
+- Andrés Daniel Galvan Oyague
+- Fabian imanol Ojeda Valero
+- Julian Marcelo Quispe Lau Len
+- Yaseem Stick Bañico Ramos
+
+---
 
 ## Tarea 1
 ### Guía 1 
@@ -8,15 +16,16 @@
 
 
 ### Guía 2
-- C++ : [Ver guía 2 en lenguaje C++(Incompleta)](c++/guia2/ejercicios.md)
+- C++ : [Ver guía 2 en lenguaje C++](c++/guia2/ejercicios.md)
 - Java: [Ver guía 2 en lenguaje Java](java/guia2/ejercicios.md)
 - Diagramas de Flujo: [Ver guía 2 en diagramas de flujo](diagramasFlujo/guia2/ejercicios.md)
 
 ### Guía 3
-- C++ : *Por subir*
-- Java : *Por subir*
+- C++ : [Ver guía 3 en lenguaje C++](c++/guia3/ejercicios.md)
+- Java: [Ver guía 3 en lenguaje Java](java/guia3/ejercicios.md)
 - Diagramas de Flujo: [Ver guía 3 en diagramas de flujo](diagramasFlujo/guia3/ejercicios.md)
 
+---
 ## Tarea 2: Función que imprima valor de cout (C++)
 ````
 #include <iostream>
@@ -59,7 +68,7 @@ int main()
     resultadosDelProblema(suma, multiplica);
 }
 ````
-
+---
 ## Tarea 3: Desarrollo de rutina en Haskell
 ````
 import Data.List
