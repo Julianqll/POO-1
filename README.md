@@ -7,9 +7,9 @@
 - Yaseem Stick Bañico Ramos
 
 ## Indice:
-- [Ir a Tarea 1](#tarea-1:-desarrollo-de-guías)
-- [Ir a Tarea 2](#tarea-2:-función-que-imprima-valor-de-cout-(c++))
-- [Ir a Tarea 3](#tarea-3:-desarrollo-de-rutina-en-haskell)
+- [Ir a Tarea 1](#tarea-1)
+- [Ir a Tarea 2](#tarea-2)
+- [Ir a Tarea 3](#tarea-3)
 ---
 
 ## Tarea 1: Desarrollo de guías
