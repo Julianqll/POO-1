@@ -33,7 +33,7 @@ Desarrollo de guías
 ---
 ## Tarea 2
 Función que imprima valor de cout (C++)
-````
+````c++
 #include <iostream>
 
 #include <string>
