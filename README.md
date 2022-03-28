@@ -12,7 +12,8 @@
 - [Ir a Tarea 3](#tarea-3)
 ---
 
-## Tarea 1: Desarrollo de guías
+## Tarea 1
+Desarrollo de guías
 ### Guía 1 
 - C++ : [Ver guía 1 en lenguaje C++](c++/guia1/ejercicios.md)
 - Java: [Ver guía 1 en lenguaje Java](java/guia1/ejercicios.md)
@@ -30,7 +31,8 @@
 - Diagramas de Flujo: [Ver guía 3 en diagramas de flujo](diagramasFlujo/guia3/ejercicios.md)
 
 ---
-## Tarea 2: Función que imprima valor de cout (C++)
+## Tarea 2
+Función que imprima valor de cout (C++)
 ````
 #include <iostream>
 
@@ -73,7 +75,8 @@ int main()
 }
 ````
 ---
-## Tarea 3: Desarrollo de rutina en Haskell
+## Tarea 3
+Desarrollo de rutina en Haskell
 ````
 import Data.List
 import System. IO
