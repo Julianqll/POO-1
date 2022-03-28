@@ -2,13 +2,13 @@
 
 ## Tarea 1
 ### Guía 1 
-- C++ : *Por subir*
+- C++ : [Ver guía 1 en lenguaje C++](c++/guia1/ejercicios.md)
 - Java: [Ver guía 1 en lenguaje Java](java/guia1/ejercicios.md)
 - Diagramas de Flujo: [Ver guía 1 en diagramas de flujo](diagramasFlujo/guia1/ejercicios.md)
 
 
 ### Guía 2
-- C++ : *Por subir*
+- C++ : [Ver guía 2 en lenguaje C++(Incompleta)](c++/guia2/ejercicios.md)
 - Java: [Ver guía 2 en lenguaje Java](java/guia2/ejercicios.md)
 - Diagramas de Flujo: [Ver guía 2 en diagramas de flujo](diagramasFlujo/guia2/ejercicios.md)
 
