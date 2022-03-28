@@ -77,7 +77,7 @@ int main()
 ---
 ## Tarea 3
 Desarrollo de rutina en Haskell
-````
+````haskell
 import Data.List
 import System. IO
 -- para compilar el programa siempre digita :r
