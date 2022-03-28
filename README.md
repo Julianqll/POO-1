@@ -6,9 +6,13 @@
 - Julian Marcelo Quispe Lau Len
 - Yaseem Stick Bañico Ramos
 
+## Indice:
+- [Ir a Tarea 1](##Tarea-1:-Desarrollo-de-guías)
+- [Ir a Tarea 2](##Tarea-2:-Función-que-imprima-valor-de-cout-(C++))
+- [Ir a Tarea 3](##Tarea-3:-Desarrollo-de-rutina-en-Haskell)
 ---
 
-## Tarea 1
+## Tarea 1: Desarrollo de guías
 ### Guía 1 
 - C++ : [Ver guía 1 en lenguaje C++](c++/guia1/ejercicios.md)
 - Java: [Ver guía 1 en lenguaje Java](java/guia1/ejercicios.md)
