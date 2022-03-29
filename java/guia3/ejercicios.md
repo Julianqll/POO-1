@@ -1,5 +1,5 @@
 # Ejercicio 1
-````
+````java
 import javax.swing.JOptionPane;
 
 
@@ -36,7 +36,7 @@ public class Main {
 ````
 
 # Ejercicio 2
-````
+````java
 import javax.swing.JOptionPane;
 
 
@@ -127,7 +127,7 @@ public class Main {
 ````
 
 # Ejercicio 3
-````
+````java
 import javax.swing.JOptionPane;
 
 
@@ -219,7 +219,7 @@ public class Main {
 ````
 
 # Ejercicio 4
-````
+````java
 import javax.swing.JOptionPane;
 
 
