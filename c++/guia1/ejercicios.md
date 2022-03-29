@@ -1,5 +1,5 @@
 # Ejercicio 1
-```
+```c++
 #include <iostream>
 
 int main() {
@@ -18,7 +18,7 @@ int main() {
 ```
 # Ejercicio2
 
-```
+```c++
 #include <iostream>
 
 int main() {
@@ -39,7 +39,7 @@ int main() {
 ```
 # Ejercicio 3
 
-```
+```c++
 #include <iostream>
 
 int main() {
@@ -58,7 +58,7 @@ int main() {
 
 # Ejercicio 4
 
-```
+```c++
 #include <iostream>
 
 int main() {
@@ -76,7 +76,7 @@ int main() {
 
 # Ejercicio 5
 
-```
+```c++
 #include <iostream>
 
 int main() {
