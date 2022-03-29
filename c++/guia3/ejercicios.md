@@ -1,6 +1,6 @@
 # Ejercicio1
 
-````
+````c++
 #include <iostream>
 
 using namespace std;
@@ -36,7 +36,7 @@ int main()
 
 # Ejercicio2
 
-````
+````c++
 #include<iostream>
 #include<string.h>
 using namespace std;
@@ -116,7 +116,7 @@ int main()
 
 
 # Ejercicio3
-````
+````c++
 #include<iostream>
 #include<string.h>
 using namespace std;
@@ -195,7 +195,7 @@ int main()
 ````
 
 # Ejercicio4
-````
+````c++
 #include<iostream>
 #include<math.h>
 using namespace std;
