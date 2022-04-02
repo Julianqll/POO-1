@@ -1,5 +1,5 @@
 # Ejercicio 1
-```
+```java
 import java.util.Scanner;
 
 public class Main {
@@ -23,7 +23,7 @@ public class Main {
 ```
 # Ejercicio2
 
-```
+```java
 import java.util.Scanner;
 
 public class Main {
@@ -48,7 +48,7 @@ public class Main {
 ```
 # Ejercicio 3
 
-```
+```java
 import java.util.Scanner;
 
 public class Main {
@@ -75,7 +75,7 @@ public class Main {
 
 # Ejercicio 4
 
-```
+```java
 import java.util.Scanner;
 
 public class Main {
